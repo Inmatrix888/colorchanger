@@ -1,13 +1,5 @@
 "use strict";
-function determineNumPositiveNegativeZero(positive,negative,zero) {
-  if (num > 0) {
-    return "Positive";
-  } else if (num < 0) {
-    return "negative";
-  } else {
-    return "0";
-  }
-}
+
 
 
 
